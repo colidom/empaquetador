@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ProjectName</name>
+    <displayName>Project Name</displayName>
+    <version>1.0.0</version>
+    <description>Short description</description>
+    <author>colidom</author>
+    <tab></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+</module>
