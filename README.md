@@ -1,2 +1,2 @@
 # empaquetador
-Herramienta para empaquetar en formato .zip el contenido de una carpte
+Herramienta para empaquetar en formato .zip el contenido de una carpeta
